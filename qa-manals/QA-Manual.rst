@@ -8,6 +8,7 @@ take place under a balanced allocation of organizational resources,
 aimed at achieving the highest level of quality and meeting national
 and international standards, while delivering our services.  Our
 commitment is to:
+
 1. Support the management of quality through the provision of all
    appropriate resources that will result in an organizational culture
    that fosters the best practices, encourages safety through quality,
